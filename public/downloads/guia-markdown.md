@@ -331,3 +331,9 @@ Informe a licença e adicione um link para o arquivo correspondente.
 - [Sintaxe básica do Markdown](https://www.markdownguide.org/basic-syntax/)
 - [Escrever e formatar no GitHub](https://docs.github.com/pt/get-started/writing-on-github)
 - [Especificação GitHub Flavored Markdown](https://github.github.com/gfm/)
+- ** DUPLICAR TESTE >> [Especificação GitHub Flavored Markdown](https://github.github.com/gfm/)
+----
+- [Sintaxe básica do Markdown](https://www.markdownguide.org/basic-syntax/)
+- [Escrever e formatar no GitHub](https://docs.github.com/pt/get-started/writing-on-github)
+- [Especificação GitHub Flavored Markdown](https://github.github.com/gfm/)
+- ** DUPLICAR TESTE >> [Especificação GitHub Flavored Markdown](https://github.github.com/gfm/)
